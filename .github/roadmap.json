@@ -1,0 +1,57 @@
+[
+  {
+    "key": "lab-01",
+    "title": "Lab-01 — HTML-first Interactive Game (minimal JS)",
+    "labels": ["assignment", "lab", "lab-01", "Frontend", "module-01"],
+    "due": "2025-09-8T23:59:00-05:00",
+    "milestone": "Module 1 — Multipage HTML - CSS - inline JS",
+    "task": "Complete the Lab 1 document. Build an HTML-first, multi-page interactive game. Inline JS used for small interactions.",
+    "acceptance": [
+      "Upload final files to labs/lab-01/ with entrypoint index.html",
+      "Add a link in the root index.html to labs/lab-01/index.html",
+      "Verify the published link loads on using GitHub Pages, ",
+      "Add a readme.md file to labs/lab-01/ with your reflections on HTML"
+    ]
+  },
+  {
+    "key": "lab-02",
+    "title": "Lab-02 — CSS: Crash Course",
+    "labels": ["assignment", "lab", "lab-02", "Frontend", "module-01"],
+    "due": "2025-09-8T23:59:00-05:00",
+    "milestone":"Module 1 — Multipage HTML - CSS - inline JS",
+    "task": "Complete Lab 2 document, which is a crash course in pure CSS with no frameworks.",
+    "acceptance": [
+      "Upload final files to labs/lab-02/ with entrypoint index.html",
+      "Add a link in the root index.html to labs/lab-02/index.html",
+      "Verify the published link loads on using GitHub Pages, ",
+     "Add a readme.md file to labs/lab-01/ with your reflections on CSS"
+    ]
+  },
+  {
+    "key": "project-01",
+    "title": "Project-01 — Interactive Game in HTML & CSS",
+    "labels": ["assignment", "project", "project-01", "Frontend", "module-01"],
+    "due": "2025-09-8T23:59:00-05:00",
+    "milestone": "Module 1 — Multipage HTML - CSS - inline JS",
+    "task": "Read and Complete the project-01 document from Instructors repo, Design your own deployable multi-page interactive game. JS is allowed; but no frameworks or build tools.",
+    "acceptance": [
+      "Create projects/project-01/README.md with links to your project repo and deployed app",
+      "Add a link in the root index.html to your deployed Project-01",
+      "Include a feature checklist and one screenshot in the project README",
+      "Include your design documents and flowchart in your projects repo in a docs/ folder"
+    ]
+  },
+  {
+    "key": "capstone-01",
+    "title": "Capstone-01 — Find a Team",
+    "labels": ["assignment", "capstone", "capstone-01", "Planning"],
+    "due": "2025-09-8T23:59:00-05:00",
+    "milestone": "Capstone 01 — Team Formation",
+    "task": "Form a team. Create your own Team Repo and Project board and add this as an initial goals.",
+    "acceptance": [
+      "Create capstone/capstone-01/README.md with team roster and one-paragraph idea summary",
+      "Create a Project board and include its URL in the README",
+      "Ensure the board is public or shared with instructors"
+    ]
+  }
+]
