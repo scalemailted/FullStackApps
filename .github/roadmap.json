@@ -28,6 +28,20 @@
     ]
   },
   {
+    "key": "lab-03",
+    "title": "Lab-03 — Bootstrap: Responsive Portfolio",
+    "labels": ["task", "lab", "lab-03", "Frontend", "module-01"],
+    "due": "2025-09-08T23:59:00-05:00",
+    "milestone": "Module 1 — Multipage HTML + CSS + inline JS",
+    "task": "Build a responsive personal portfolio using Bootstrap 5 (grid, cards, carousel, navbar). Include pages: landing, projects, blog, about, contact.",
+    "acceptance": [
+      "Place source in labs/lab-03/ with entrypoint index.html and supporting pages (projects.html, blog.html, about.html, contact.html)",
+      "Add a link in the root index.html to labs/lab-03/ (live GitHub Pages)",
+      "Use Bootstrap 5: navbar + grid rows/columns; include at least 1 card group and 1 carousel",
+      "Add labs/lab-03/README.md with with your reflections on Bootstrap"
+    ]
+  },
+  {
     "key": "project-01",
     "title": "Project-01 — Interactive Game in HTML & CSS",
     "labels": ["task", "project", "project-01", "Frontend", "module-01"],
