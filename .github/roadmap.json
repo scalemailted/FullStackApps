@@ -4,7 +4,7 @@
     "title": "Lab-01 — HTML-first Interactive Game (minimal JS)",
     "labels": ["assignment", "lab", "lab-01", "Frontend", "module-01"],
     "due": "2025-09-8T23:59:00-05:00",
-    "milestone": "Module 1 — Multipage HTML - CSS - inline JS",
+    "milestone": "Module 1 — Multipage HTML + CSS + JS (inline)",
     "task": "Complete the Lab 1 document. Build an HTML-first, multi-page interactive game. Inline JS used for small interactions.",
     "acceptance": [
       "Upload final files to labs/lab-01/ with entrypoint index.html",
@@ -18,7 +18,7 @@
     "title": "Lab-02 — CSS: Crash Course",
     "labels": ["assignment", "lab", "lab-02", "Frontend", "module-01"],
     "due": "2025-09-8T23:59:00-05:00",
-    "milestone":"Module 1 — Multipage HTML - CSS - inline JS",
+    "milestone": "Module 1 — Multipage HTML + CSS + JS (inline)",
     "task": "Complete Lab 2 document, which is a crash course in pure CSS with no frameworks.",
     "acceptance": [
       "Upload final files to labs/lab-02/ with entrypoint index.html",
@@ -32,7 +32,7 @@
     "title": "Project-01 — Interactive Game in HTML & CSS",
     "labels": ["assignment", "project", "project-01", "Frontend", "module-01"],
     "due": "2025-09-8T23:59:00-05:00",
-    "milestone": "Module 1 — Multipage HTML - CSS - inline JS",
+    "milestone": "Module 1 — Multipage HTML + CSS + JS (inline)",
     "task": "Read and Complete the project-01 document from Instructors repo, Design your own deployable multi-page interactive game. JS is allowed; but no frameworks or build tools.",
     "acceptance": [
       "Create projects/project-01/README.md with links to your project repo and deployed app",
