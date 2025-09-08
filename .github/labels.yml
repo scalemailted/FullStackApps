@@ -1,0 +1,37 @@
+# --- Core workflow / status ---
+- { name: task,       color: 0ea5e9, description: Parent tag for roadmap items }
+- { name: completed,  color: 6f42c1, description: Work finished by student }
+- { name: approved,   color: 2ea043, description: Instructor sign-off }
+- { name: reviewed,   color: a371f7, description: Reviewed by student/peer }
+- { name: deployed,   color: 2dbf73, description: Live URL provided and validated }
+
+# Peer-review flow helpers
+- { name: peer-review-requested, color: ffd33d, description: Please review this item }
+- { name: ready-for-approval,    color: 0ea5e9, description: Ready for instructor approval }
+- { name: changes-requested,     color: d73a4a, description: Needs revisions before approval }
+- { name: blocked,               color: 6a737d, description: Blocked by dependency or issue }
+
+# --- Types ---
+- { name: lab,      color: 1d76db, description: Lab work }
+- { name: project,  color: 5319e7, description: Project work }
+- { name: capstone, color: 6f42c1, description: Capstone milestone }
+
+# --- Tracks (multi-label OK) ---
+- { name: Frontend,     color: 36b2a6, description: Client/UI (HTML/CSS/JS) }
+- { name: Backend,      color: 0b76ff, description: Server/API (Node/Express) }
+- { name: DB,           color: 34d058, description: Database & persistence }
+- { name: HTTP-Server,  color: d97706, description: HTTP, REST/JSON, server concerns }
+- { name: Security,     color: f59e0b, description: Auth, sessions, passwords }
+- { name: Testing,      color: fb923c, description: Unit/integration testing }
+
+# --- Modules (use Milestones for grouping; label is for filtering) ---
+- { name: module-01, color: fbca04, description: Module 1 }
+
+# --- Current keys (colored so they aren’t gray) ---
+- { name: lab-01,      color: 6a737d, description: Key label (Lab 01) }
+- { name: lab-02,      color: 6a737d, description: Key label (Lab 02) }
+- { name: project-01,  color: 6a737d, description: Key label (Project 01) }
+- { name: capstone-01, color: 6a737d, description: Key label (Capstone 01) }
+
+# --- Capstone phase in use now ---
+- { name: capstone-01-proposal, color: 6f42c1, description: Team + idea (proposal) }
