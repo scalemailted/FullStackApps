@@ -58,10 +58,10 @@
   {
     "key": "capstone-01",
     "title": "Capstone-01 — Find a Team",
-    "labels": ["task", "capstone", "capstone-01", "capstone-01-proposal", "module-01"],
+    "labels": ["task", "capstone", "capstone-01"],
     "due": "2025-09-08T23:59:00-05:00",
     "milestone": "Capstone 01 — Team Formation",
-    "task": "Form a team. Create your team repo and Project (v2) board, and add initial goals.",
+    "task": "Form a team. Create your team repo and Project board, and add initial goals.",
     "acceptance": [
       "Create capstone/capstone-01/README.md with team roster and one-paragraph idea summary",
       "Create a Project board and include its URL in the README",
