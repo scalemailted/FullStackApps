@@ -64,7 +64,7 @@
     "task": "Form a team. Create your team repo and Project (v2) board, and add initial goals.",
     "acceptance": [
       "Create capstone/capstone-01/README.md with team roster and one-paragraph idea summary",
-      "Create a Project (v2) board and include its URL in the README",
+      "Create a Project board and include its URL in the README",
       "Ensure the board is public or shared with instructors"
     ]
   }
