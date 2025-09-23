@@ -24,7 +24,7 @@ This folder contains the **required labs** for the course and a **supplemental-l
 * **(Legacy) Lab 05 — JS OOP + Canvas API (Platformer)**
   A physics-based platformer using raw Canvas API with an OOP architecture (blocks, hazards, exit, animation). Great for extra practice or comparison with Phaser.&#x20;
 
-> ✅ **Reminder:** Only the labs listed under “What you must do” are required for credit. `supplemental-labs/` are **optional**.
+> ✅ **Reminder:** Only the labs listed under “Required Labs” are due for credit. `supplemental-labs/` are **optional**.
 
 ---
 
