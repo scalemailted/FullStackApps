@@ -42,6 +42,49 @@
     ]
   },
   {
+    "key": "lab-04",
+    "title": "Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC)",
+    "labels": ["task", "lab", "lab-04", "Frontend", "JavaScript", "DOM", "Events", "MVC", "module-02"],
+    "due": "2025-09-26T23:59:00-05:00",
+    "milestone": "Module 2 — JavaScript (Client)",
+    "task": "Build the Hi–Lo guessing game by following the lab document.",
+    "acceptance": [
+      "All files required by the Lab-04 document are added under labs/lab-04/ (preserve any suggested structure/names).",
+      "Add labs/lab-04/README.md with reflections on the lab (what you built, what was tricky, what you’d improve).",
+      "Commit and push your work."
+    ]
+  },
+  {
+    "key": "lab-05",
+    "title": "Lab-05 — JavaScript OOP + Phaser: Dodger Game",
+    "labels": ["task", "lab", "lab-05", "Frontend", "JavaScript", "Phaser", "module-02"],
+    "due": "2025-09-29T23:59:00-05:00",
+    "milestone": "Module 2 — JavaScript (Client)",
+    "task": "Build the Phaser Dodger game by following the lab document.",
+    "acceptance": [
+      "All files required by the Lab-05 document are added under labs/lab-05/ (preserve any suggested structure/names).",
+      "Add labs/lab-05/README.md with reflections on the lab (what you built, what was tricky, what you’d improve).",
+      "Commit and push your work."
+    ]
+  },
+
+  {
+    "key": "project-0",
+    "title": "Project-0 — Set up Repo, Project Board, Actions & Pages",
+    "labels": ["task", "project", "project-0", "module-00"],
+    "due": "2025-09-08T23:59:00-05:00",
+    "milestone": "Module 0 — Repository & Project Management",
+    "task": "Fork the template repo, enable Issues/Actions/Pages, create a Project (v2) board, run the seeder to create roadmap issues, and publish your portfolio with GitHub Pages.",
+    "acceptance": [
+      "Repo forked as csci4208-portfolio-2025; Issues enabled; Actions enabled; Pages enabled (main / /).",
+      "Project (v2) board created, Auto-add enabled for issues, and board set to public.",
+      "Run 'Seed / Update Roadmap Issues' workflow successfully (issues appear with labels & milestones).",
+      "Run 'Update README Submission Table' workflow successfully (Item | Key | Status shows).",
+      "Root index.html exists and links to at least one lab or project.",
+      "Submit three links in README/About: repo, public Project board, and live Pages URL."
+    ]
+  },
+  {
     "key": "project-01",
     "title": "Project-01 — Interactive Game in HTML & CSS",
     "labels": ["task", "project", "project-01", "Frontend", "module-01"],
