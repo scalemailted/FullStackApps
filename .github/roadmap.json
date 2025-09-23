@@ -73,7 +73,7 @@
     "title": "Project-0 — Set up Repo, Project Board, Actions & Pages",
     "labels": ["task", "project", "project-00", "module-00"],
     "due": "2025-09-08T23:59:00-05:00",
-    "milestone": "Module 0 — Repository & Project Management",
+    "milestone": "Module 0 — Setup Repository & Project Management Tools",
     "task": "Fork the template repo, enable Issues/Actions/Pages, create a Project (v2) board, run the seeder to create roadmap issues, and publish your portfolio with GitHub Pages.",
     "acceptance": [
       "Repo forked as csci4208-portfolio-2025; Issues enabled; Actions enabled; Pages enabled (main / /).",
