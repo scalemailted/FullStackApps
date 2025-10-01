@@ -5,7 +5,7 @@ This folder contains the **required labs** for the course and a **supplemental-l
 ## Required Labs
 
 1. **Lab 01 — HTML Frontend (Interactive Story)**
-   Build a multi-page HTML “choose-your-path” story; practice elements, attributes, links, tables, media, and simple state via query strings.&#x20;
+   Build a multi-page HTML “choose-your-path” story; practice elements, attributes, links, tables, media, and simple state via query strings and inline javscript via HTML script elements.&#x20;
 
 2. **Lab 02 — CSS Crash Course**
    Style pages with selectors, colors, fonts, spacing, sizing, backgrounds, and responsive alignment (flexbox & grid).&#x20;
