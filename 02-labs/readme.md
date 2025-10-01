@@ -25,7 +25,7 @@ This folder contains the **required labs** for the course and a **supplemental-l
    > Pick either **Dodger** or **Platformer**. Keep both folders if you like, but only one is required for credit.
 
 6. **Lab 06 — REST Client (Fetch + ES Modules)**  
-   Build a browser app that performs real HTTP requests (e.g., GET from a public API and PUT/POST to a simple backend or JSON bin). Organize code with **ES modules** and handle loading/empty/error states.
+   Build a browser app (Quiz Game) that performs real HTTP requests (e.g., GET from a public API and PUT/POST to a simple backend or JSON bin). Organize code with **ES modules** and handle loading/empty/error states.
 
 
 ## Optional / Legacy 
