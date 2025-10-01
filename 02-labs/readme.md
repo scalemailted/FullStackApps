@@ -16,13 +16,27 @@ This folder contains the **required labs** for the course and a **supplemental-l
 4. **Lab 04 — JavaScript + DOM + Events (Hi-Lo Game)**
    Implement a browser SPA that evolves from MVP to MVC, handling DOM updates, events, and timed interactions.&#x20;
 
-5. **Lab 05 — JavaScript OOP + Phaser (Dodger Game)**
-   Use Phaser 3 and OOP patterns to build a 2D game: movement, enemies, collisions, scoring, projectiles, power-ups, and scenes.&#x20;
+5. **Lab 05 — JavaScript OOP + Phaser (✳️ choose ONE)**  
+   You will complete **one** of the two Phaser labs below. Both use OOP patterns and scenes.
+   - **Lab 05A — Dodger Game (Phaser 3)**  
+     Movement, enemies, collisions, scoring, projectiles, power-ups, and scenes.
+   - **Lab 05B — Platformer Game (Phaser 3)**  
+     Tilemap + gravity + collisions, hazards/collectibles/enemies, win/lose conditions, title screen.
+   > Pick either **Dodger** or **Platformer**. Keep both folders if you like, but only one is required for credit.
+
+6. **Lab 06 — REST Client (Fetch + ES Modules)**  
+   Build a browser app that performs real HTTP requests (e.g., GET from a public API and PUT/POST to a simple backend or JSON bin). Organize code with **ES modules** and handle loading/empty/error states.
+
 
 ## Optional / Legacy 
 
 * **(Legacy) Lab 05 — JS OOP + Canvas API (Platformer)**
   A physics-based platformer using raw Canvas API with an OOP architecture (blocks, hazards, exit, animation). Great for extra practice or comparison with Phaser.&#x20;
+
+
+* **(Optional) Lab 06 — HTTP + Async Frontend: Contact Form (Google Forms backend)**  
+  Build a portfolio **contact form** that **POSTs** to a **Google Form** backend. Start with vanilla HTML `<form>` submission, then progressively refactor to **DOM-driven attributes**, **query-string encoding**, and a pure **async/await + fetch** implementation (no server code required). Suggested structure:  
+  `supplemental-labs/lab-06-contact-form/` with `index.html`, `scripts/form-model.js`, `scripts/form-controller.js`. 
 
 > ✅ **Reminder:** Only the labs listed under “Required Labs” are due for credit. `supplemental-labs/` are **optional**.
 
