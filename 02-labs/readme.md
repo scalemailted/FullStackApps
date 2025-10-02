@@ -29,6 +29,10 @@ This folder contains the **required labs** for the course and a **supplemental-l
 
 
 ## Optional / Legacy 
+* **(Optional) Lab 05 - Phaser Explorer — Complete Reference Build + Instructions**  
+  A **fully working Phaser 3 “Explorer” game** (scenes, tilemap, collisions, UI) with a **step-by-step walkthrough** explaining setup, file structure, and how to extend features. Use it as a reference implementation or compare against your own build.
+
+
 
 * **(Legacy) Lab 05 — JS OOP + Canvas API (Platformer)**
   A physics-based platformer using raw Canvas API with an OOP architecture (blocks, hazards, exit, animation). Great for extra practice or comparison with Phaser.&#x20;
