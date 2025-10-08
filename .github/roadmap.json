@@ -172,7 +172,7 @@
     "key": "project-02-sprint-2",
     "title": "Project-02 — Sprint 2: MVP Vertical Slice",
     "labels": ["task","project","project-02","sprint-2","module-02"],
-    "due": "2025-10-08T23:59:00-05:00",
+    "due": "2025-10-13T23:59:00-05:00",
     "milestone": "Module 2 — Thick-Client, Local-First SPA (REST Client)",
     "task": "Ship a running SPA skeleton with one vertical slice: input → state → render, GET with TTL + states, JSONBin PUT/POST for a small artifact, local-first boot & merge.",
     "acceptance": [
@@ -185,7 +185,7 @@
     "key": "project-02-sprint-3",
     "title": "Project-02 — Sprint 3: Full Feature Set & Polish",
     "labels": ["task","project","project-02","sprint-3","module-02"],
-    "due": "2025-10-19T23:59:00-05:00",
+    "due": "2025-10-26T23:59:00-05:00",
     "milestone": "Module 2 — Thick-Client, Local-First SPA (REST Client)",
     "task": "Complete planned features, deepen interaction, ensure responsiveness, finalize docs and deploy (or bullet-proof local run).",
     "acceptance": [
