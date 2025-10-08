@@ -114,7 +114,7 @@
     {
     "key": "lab-05-platformer",
     "title": "Lab-05 (Alt) — JavaScript OOP + Phaser: Platformer Game",
-    "labels": ["task","lab","lab-05","Frontend","JavaScript","Phaser","module-02","alternate","choice"],
+    "labels": ["task","lab","lab-05-platformer","Frontend","JavaScript","Phaser","module-02","alternate","choice"],
     "due": "2025-09-29T23:59:00-05:00",
     "milestone": "Module 2 — JavaScript (Client)",
     "task": "Alternate to Lab-05 (Dodger). Build the Phaser Platformer per the lab guide (tilemap, gravity, collisions, goal, hazards, collectibles, enemies, title screen). Students complete EITHER Dodger or Platformer.",
