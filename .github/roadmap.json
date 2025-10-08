@@ -141,6 +141,21 @@
     ]
   },
   {
+    "key": "lab-07",
+    "title": "Lab-07 — Browser Data Layer: Mock Document DB",
+    "labels": ["task", "lab", "lab-07", "Frontend", "JavaScript", "Dataend","LocalStorage","REST","Client","Browser","module-02"],
+    "due": "2025-10-15T23:59:00-05:00",
+    "milestone": "Module 2 — JavaScript (Client)",
+    "task": "Implement a storage-agnostic, client-side data layer that mimics a Mongo-style document database. Build swappable persistence adapters for LocalStorage and JSONBin.",
+    "acceptance": [
+      "All files required by the Lab-07 document are added under labs/lab-07/.",
+      "Implement the full DB API in `db.js` (Basic and Advanced CRUD).",
+      "Implement the `MemoryAdapter`, `LocalStorageAdapter`, and `JsonBinAdapter`.",
+      "All automated tests (`test-memory.html`, `test-local.html`, `test-jsonbin.html`, `test-sync.html`) pass with green checks.",
+      "Add labs/lab-07/README.md with reflections on the lab, what you built, and any challenges."
+    ]
+  },
+  {
     "key": "project-02-sprint-1",
     "title": "Project-02 — Sprint 1: Pitch & Roadmap Proposal",
     "labels": ["task","project","project-02","sprint-1","module-02"],
