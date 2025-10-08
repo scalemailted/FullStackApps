@@ -27,6 +27,9 @@ This folder contains the **required labs** for the course and a **supplemental-l
 6. **Lab 06 — REST Client (Fetch + ES Modules)**  
    Build a browser app (Quiz Game) that performs real HTTP requests (e.g., GET from a public API and PUT/POST to a simple backend or JSON bin). Organize code with **ES modules** and handle loading/empty/error states.
 
+7.  **Lab 07 — Browser Data Layer (Mock Document DB)**  
+    Implement a storage-agnostic, client-side data layer that mimics a Mongo-style document database. Students will build swappable **persistence adapters** for **LocalStorage** (local) and **JSONBin** (cloud), learning to manage application state, handle `async` operations, and structure code around a clean, reusable CRUD API.
+
 
 ## Optional / Legacy 
 * **(Optional) Lab 05 — Phaser Explorer - Complete Reference Build + Instructions**  
